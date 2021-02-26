@@ -1,0 +1,20 @@
+{
+  "name": "work-activity-spoofer",
+  "version": "1.0.0",
+  "description": "## dev steps 1. mvp with simple bot that just does random stuff on screen 2. analyze network traffic and find relevant calls 3. spoof said calls directly on network level and be done with this stupid shit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jukefr/work-activity-spoofer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jukefr/work-activity-spoofer/issues"
+  },
+  "homepage": "https://github.com/jukefr/work-activity-spoofer#readme"
+}
